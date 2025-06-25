@@ -1,0 +1,13 @@
+[project]
+name = "huffman_cli"
+version = "0.1.0"
+description = "Interactive CLI Huffman encoder/decoder"
+authors = [{ name = "Ashmit", email = "ashmit2503@gmail.com" }]
+readme = "README.md"
+requires-python = ">=3.7"
+dependencies = [
+    "click>=8.0"
+]
+
+[project.scripts]
+huffman_cli = "huffman_cli.cli:cli"

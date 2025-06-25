@@ -1,0 +1,2 @@
+[console_scripts]
+huffman_cli = huffman_cli.cli:cli
