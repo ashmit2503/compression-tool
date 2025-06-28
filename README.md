@@ -11,7 +11,7 @@ A command-line tool for compressing and decompressing files using Huffman coding
 
 1. Clone the repository:
    ```sh
-   git clone <repo-url>
+   git clone https://github.com/ashmit2503/compression-tool.git
    cd compression-tool
    ```
 2. (Optional) Create and activate a virtual environment:
